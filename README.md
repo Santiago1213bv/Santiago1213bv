@@ -4,11 +4,11 @@ I'm a Systems Engineering student at Pontificia Universidad Javeriana, intereste
 
 ##  About Me
 
-- 🎓 Systems Engineering student at Pontificia Universidad Javeriana
-- 💻 Interested in Backend and Mobile Development
-- ⚙️ Experience with Java, C++, C, Spring Boot, Kotlin and PostgreSQL
-- 🚀 Interested in DevOps and Software Engineering
-- 📊 Interested in Project Management and Technology Leadership
+-  Systems Engineering student at Pontificia Universidad Javeriana
+-  Interested in Backend and Mobile Development
+-  Experience with Java, C++, C, Spring Boot, Kotlin and PostgreSQL
+-  Interested in DevOps and Software Engineering
+-  Interested in Project Management and Technology Leadership
 
 ##  Technologies
 
