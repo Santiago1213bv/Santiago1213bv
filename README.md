@@ -1,4 +1,4 @@
-# Hi, I'm Santiago 👋
+# Hi, I'm Santiago!
 
 I'm a Systems Engineering student at Pontificia Universidad Javeriana, interested in software development, technology and project management.
 
