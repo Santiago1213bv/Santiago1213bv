@@ -2,7 +2,7 @@
 
 I'm a Systems Engineering student at Pontificia Universidad Javeriana, interested in software development, technology and project management.
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Systems Engineering student at Pontificia Universidad Javeriana
 - 💻 Interested in Backend and Mobile Development
@@ -10,16 +10,16 @@ I'm a Systems Engineering student at Pontificia Universidad Javeriana, intereste
 - 🚀 Interested in DevOps and Software Engineering
 - 📊 Interested in Project Management and Technology Leadership
 
-## 🛠️ Technologies
+##  Technologies
 
 Java | Kotlin | Spring Boot | PostgreSQL | Git | Docker | Flutter | C++ | Prolog | C
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-- 📱 **WaySpot** — Android application for discovering and reviewing places.
-- 🏋️ **NoraFit** — Fitness platform developed with Spring Boot, PostgreSQL and Flutter.
-- 💻 **Reservation System** — Concurrent reservation system developed using C and POSIX Threads.
+-  **WaySpot** — Android application for discovering and reviewing places.
+-  **NoraFit** — Fitness platform developed with Spring Boot, PostgreSQL and Flutter.
+-  **Reservation System** — Concurrent reservation system developed using C and POSIX Threads.
 
-## 📫 Contact
+##  Contact
 
 - LinkedIn: https://www.linkedin.com/in/santiago-bautista-709775435/
